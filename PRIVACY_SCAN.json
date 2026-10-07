@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-07",
+  "original_attempt_bodies_scanned": 2685,
+  "original_credential_or_contact_pattern_matches": 0,
+  "candidate_public_credential_or_contact_pattern_matches": 0,
+  "patterns_source": "privacy_scan.py",
+  "manual_review": "Complete reasoning and answer text of the ten selected receipts were inspected locally. They concern abstract concepts and programming/philosophy. No incidental private contact details or credentials were identified in those texts. This is not manual semantic review of every corpus trace.",
+  "public_minimization": "Full reasoning, reasoning quotations, original raw envelopes, provider response bodies and raw headers are omitted. Released fields are input requests, measurements, timestamps, hashes, classifications and archive references.",
+  "limitation": "No automated pattern screen can certify the absence of every kind of personal information. This report does not assert permission to redistribute the original archive."
+}

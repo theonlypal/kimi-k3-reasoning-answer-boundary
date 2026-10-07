@@ -1,0 +1,16 @@
+{
+  "original_paper_doi": "https://doi.org/10.5281/zenodo.21696066",
+  "original_repository": "https://github.com/theonlypal/void-matrix-complete-analysis",
+  "original_analysis_commit": "3fd330869c1a4a410047bc70b3f661f1a9d69aca",
+  "original_release": "https://github.com/theonlypal/void-matrix-complete-analysis/releases/tag/v1.0.0-evidence-analysis",
+  "archive_url": "https://github.com/theonlypal/void-matrix-complete-analysis/releases/download/v1.0.0-evidence-analysis/void-matrix-evidence-v1.0.0.zip",
+  "archive_sha256": "04d79ddb0f961729369da8ae46c58f7293e42dfd278d2e9b703edc0cec6455d2",
+  "archive_bytes": 177868683,
+  "original_runner": "https://github.com/theonlypal/void-matrix",
+  "derived_analysis_date": "2026-10-07",
+  "version": "1.0.0",
+  "original_archive_modified": false,
+  "new_inference_requests": 0,
+  "publication_mode": "metadata_and_references",
+  "provenance_note": "This is a new derived analysis of the July 2026 archive. Local September 14 and October 7 audits motivated the reconstruction; they are not fresh inference replications. Source identity is pinned by SHA-256; a GitHub tag or asset URL alone is not immutable."
+}
